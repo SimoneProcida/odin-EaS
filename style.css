@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+#container {
+    width: 490px;
+    height: 490px;
+    border-color: brown;
+    border-style: solid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0%;
+    justify-content: space-evenly;
+}
+
+.black {
+    background-color: black;
+}
